@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=riya-rawat12" alt="riya-rawat12" /></a> </p>
 
-<img align="centre" alt="Coding" width="600" src="https://images.app.goo.gl/YXS2RNQTVQrZSmkp6">
+<img align="right" alt="Coding" width="400" src="https://images.app.goo.gl/YXS2RNQTVQrZSmkp6">
 
 - 🌱 I’m currently learning **Java and Algorithms**
 
